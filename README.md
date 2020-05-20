@@ -1,9 +1,10 @@
 
-### JavaScript DOM D3 Manipulation
+# JavaScript DOM D3 Manipulation
+## UFO Level 1
 **Link to Webpage:** https://diannejardinez.github.io/JavaScript-DOM-D3-Manipulation/index.html
 
 
-**UFO level 1 objective:** Creating a dynamic table that allows for filtering table data for specific values using Javascript, HTML, CSS, and D3.js.
+**Objective:** Creating a dynamic table that allows for filtering table data for specific values using Javascript, HTML, CSS, and D3.js.
 
 Website includes:
 - Home Page
