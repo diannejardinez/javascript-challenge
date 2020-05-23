@@ -1,9 +1,9 @@
 
 # JavaScript DOM D3 Manipulation
-## UFO Level 1
+
 **Link to Webpage:** https://diannejardinez.github.io/JavaScript-DOM-D3-Manipulation/index.html
 
-
+## UFO Level 1
 **Objective:** Creating a dynamic table that allows for filtering table data for specific date values using Javascript, HTML, CSS, and D3.js.
 
 Website includes:
