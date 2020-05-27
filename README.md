@@ -19,7 +19,7 @@ Additions to website:
 - About Page
     - Small description of UFO dataset
 
-![](https://github.com/diannejardinez/javascript-challenge/blob/master/JavaScript-DOM-D3-Manipulation/UFO-level-1%20/home_page_lvl1.png)
+![](https://github.com/diannejardinez/javascript-challenge/blob/master/JavaScript-DOM-D3-Manipulation/UFO-level-1/static/images/home_page_lvl1.png)
 
 ## UFO Level 2
 **Objective:** Creating a dynamic table that allows for filtering table data for date, city, state, country, and shape values using Javascript, HTML, CSS, and D3.js.
