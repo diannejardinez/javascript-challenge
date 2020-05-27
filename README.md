@@ -38,4 +38,4 @@ Additions to website:
 - About Page
     - Small description of UFO dataset
 
-![](https://github.com/diannejardinez/diannejardinez.github.io/blob/master/JavaScript-DOM-D3-Manipulation/UFO-level-2/home_page_lvl2.png)
+![](https://github.com/diannejardinez/javascript-challenge/blob/master/JavaScript-DOM-D3-Manipulation/UFO-level-2/static/images/home_page_lvl2.png)
