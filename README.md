@@ -1,7 +1,9 @@
 
 # JavaScript DOM D3 Manipulation
 
-**Link to Webpage:** https://diannejardinez.github.io/JavaScript-DOM-D3-Manipulation/index.html
+**Webpage Level 1:** https://diannejardinez.github.io/JavaScript-DOM-D3-Manipulation/UFO-level-1/index.html
+**Webpage Level 2:** https://diannejardinez.github.io/JavaScript-DOM-D3-Manipulation/UFO-level-2/index.html
+
 
 ## UFO Level 1
 **Objective:** Creating a dynamic table that allows for filtering table data for specific date values using Javascript, HTML, CSS, and D3.js.
@@ -9,7 +11,8 @@
 Website includes:
 - Home Page
     - UFO dataset filtered by date
-        - Dataset can be accessed by filtering for date and submitting date choice and can be reset by selecting a new date or selecting the reset button
+        - Dataset can be accessed by filtering for date and submitting date choice 
+        - Dataset can be reset by selecting a new date or selecting the reset button
 
 Additions to website:
 - About Page
@@ -31,4 +34,4 @@ Additions to website:
 - About Page
     - Small description of UFO dataset
 
-![](https://github.com/diannejardinez/javascript-challenge/blob/master/JavaScript-DOM-D3-Manipulation/UFO-level-2/home_page_lvl2.png)
+![](https://github.com/diannejardinez/diannejardinez.github.io/blob/master/JavaScript-DOM-D3-Manipulation/UFO-level-2/home_page_lvl2.png)
